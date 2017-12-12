@@ -1,6 +1,6 @@
 # About Me
 
-<a href="http://saralp.github.io/Udacity_P0-about-me/" target="_blank">http://saralp.github.io/Udacity_P0-about-me/</a>
+http://saralp.github.io
 
 ## Project 0 for Project Nautilus ##
 
